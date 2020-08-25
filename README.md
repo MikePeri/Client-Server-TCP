@@ -6,5 +6,5 @@
 - Follow the instruction in the console
 - For exit just write exit.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/MikePeri/Client-Server-TCP/blob/master/Socket_server-1.png?raw=true)
 
